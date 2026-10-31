@@ -1,0 +1,1025 @@
+[
+  {
+    "category": "swallowed-clause",
+    "pattern": "Replacement_Instead: instead",
+    "warning_count": 15,
+    "card_count": 15,
+    "otherwise_supported_cards": 15,
+    "single_gap_cards": 11,
+    "single_gap_by_format": {
+      "brawl": 6,
+      "commander": 11,
+      "duel": 11,
+      "historic": 7,
+      "legacy": 11,
+      "modern": 9,
+      "oathbreaker": 11,
+      "pauper": 5,
+      "paupercommander": 5,
+      "pioneer": 4,
+      "premodern": 3,
+      "timeless": 7,
+      "vintage": 11
+    },
+    "example_cards": [
+      "Ugin's Labyrinth",
+      "Urza's Power Plant",
+      "Typhoid Mary, Fractured"
+    ]
+  },
+  {
+    "category": "swallowed-clause",
+    "pattern": "DynamicQty: of them",
+    "warning_count": 8,
+    "card_count": 8,
+    "otherwise_supported_cards": 8,
+    "single_gap_cards": 8,
+    "single_gap_by_format": {
+      "brawl": 4,
+      "commander": 7,
+      "duel": 7,
+      "historic": 4,
+      "legacy": 7,
+      "modern": 4,
+      "oathbreaker": 7,
+      "pioneer": 4,
+      "premodern": 1,
+      "standard": 1,
+      "standardbrawl": 1,
+      "timeless": 4,
+      "vintage": 7
+    },
+    "example_cards": [
+      "Kambal, Profiteering Mayor",
+      "Mythweaver Poq",
+      "Soulfire Eruption"
+    ]
+  },
+  {
+    "category": "swallowed-clause",
+    "pattern": "Condition_If: you do",
+    "warning_count": 10,
+    "card_count": 10,
+    "otherwise_supported_cards": 7,
+    "single_gap_cards": 6,
+    "single_gap_by_format": {
+      "brawl": 1,
+      "commander": 4,
+      "duel": 4,
+      "historic": 1,
+      "legacy": 4,
+      "oathbreaker": 4,
+      "pauper": 1,
+      "paupercommander": 1,
+      "premodern": 1,
+      "timeless": 1,
+      "vintage": 4
+    },
+    "example_cards": [
+      "Chorus of the Conclave",
+      "Graveyard Dig",
+      "Worldheart Phoenix"
+    ]
+  },
+  {
+    "category": "swallowed-clause",
+    "pattern": "DynamicQty: player",
+    "warning_count": 8,
+    "card_count": 8,
+    "otherwise_supported_cards": 6,
+    "single_gap_cards": 6,
+    "single_gap_by_format": {
+      "brawl": 2,
+      "commander": 6,
+      "duel": 6,
+      "historic": 2,
+      "legacy": 6,
+      "modern": 2,
+      "oathbreaker": 6,
+      "pioneer": 2,
+      "premodern": 1,
+      "standard": 1,
+      "standardbrawl": 1,
+      "timeless": 2,
+      "vintage": 6
+    },
+    "example_cards": [
+      "Turf War",
+      "Breach the Multiverse",
+      "Vault 13: Dweller's Journey"
+    ]
+  },
+  {
+    "category": "swallowed-clause",
+    "pattern": "Condition_If: that card has the chosen name",
+    "warning_count": 6,
+    "card_count": 6,
+    "otherwise_supported_cards": 6,
+    "single_gap_cards": 5,
+    "single_gap_by_format": {
+      "brawl": 1,
+      "commander": 4,
+      "duel": 4,
+      "historic": 1,
+      "legacy": 4,
+      "modern": 2,
+      "oathbreaker": 4,
+      "pioneer": 1,
+      "premodern": 2,
+      "timeless": 1,
+      "vintage": 4
+    },
+    "example_cards": [
+      "Magus of the Scroll",
+      "Mise",
+      "Cursed Scroll"
+    ]
+  },
+  {
+    "category": "swallowed-clause",
+    "pattern": "Condition_If: planeswalk gets more votes",
+    "warning_count": 5,
+    "card_count": 5,
+    "otherwise_supported_cards": 5,
+    "single_gap_cards": 5,
+    "single_gap_by_format": {
+      "commander": 5,
+      "duel": 5,
+      "legacy": 5,
+      "oathbreaker": 5,
+      "vintage": 5
+    },
+    "example_cards": [
+      "Path of the Enigma",
+      "Path of the Schemer",
+      "Path of the Ghosthunter"
+    ]
+  },
+  {
+    "category": "swallowed-clause",
+    "pattern": "Condition_If: the player can't",
+    "warning_count": 4,
+    "card_count": 4,
+    "otherwise_supported_cards": 4,
+    "single_gap_cards": 4,
+    "single_gap_by_format": {
+      "brawl": 2,
+      "commander": 4,
+      "duel": 4,
+      "historic": 2,
+      "legacy": 4,
+      "modern": 3,
+      "oathbreaker": 4,
+      "pioneer": 2,
+      "timeless": 2,
+      "vintage": 4
+    },
+    "example_cards": [
+      "Urgoros, the Empty One",
+      "Cruel Reality",
+      "Wasitora, Nekoru Queen"
+    ]
+  },
+  {
+    "category": "swallowed-clause",
+    "pattern": "Duration_ThisTurn: this turn",
+    "warning_count": 4,
+    "card_count": 4,
+    "otherwise_supported_cards": 3,
+    "single_gap_cards": 3,
+    "single_gap_by_format": {
+      "brawl": 1,
+      "commander": 3,
+      "duel": 3,
+      "historic": 1,
+      "legacy": 3,
+      "modern": 2,
+      "oathbreaker": 3,
+      "pauper": 1,
+      "paupercommander": 1,
+      "pioneer": 1,
+      "premodern": 1,
+      "standard": 1,
+      "standardbrawl": 1,
+      "timeless": 1,
+      "vintage": 3
+    },
+    "example_cards": [
+      "Rysorian Badger",
+      "Needle Drop",
+      "Luxurious Locomotive"
+    ]
+  },
+  {
+    "category": "swallowed-clause",
+    "pattern": "Condition_If: if able",
+    "warning_count": 3,
+    "card_count": 3,
+    "otherwise_supported_cards": 3,
+    "single_gap_cards": 3,
+    "single_gap_by_format": {
+      "commander": 2,
+      "duel": 2,
+      "legacy": 2,
+      "oathbreaker": 2,
+      "vintage": 2
+    },
+    "example_cards": [
+      "Rotted Ones, Lay Siege",
+      "Furygale Flocking",
+      "Illusionist's Gambit"
+    ]
+  },
+  {
+    "category": "swallowed-clause",
+    "pattern": "Condition_If: that player chooses self",
+    "warning_count": 3,
+    "card_count": 3,
+    "otherwise_supported_cards": 3,
+    "single_gap_cards": 3,
+    "single_gap_by_format": {},
+    "example_cards": [
+      "May Civilization Collapse",
+      "Feed the Machine",
+      "Surrender Your Thoughts"
+    ]
+  },
+  {
+    "category": "swallowed-clause",
+    "pattern": "Optional_YouMay: you may vote an additional time",
+    "warning_count": 3,
+    "card_count": 3,
+    "otherwise_supported_cards": 3,
+    "single_gap_cards": 2,
+    "single_gap_by_format": {
+      "commander": 2,
+      "duel": 2,
+      "legacy": 2,
+      "oathbreaker": 2,
+      "pauper": 1,
+      "paupercommander": 1,
+      "vintage": 2
+    },
+    "example_cards": [
+      "The Valeyard",
+      "Ballot Broker",
+      "Tivit, Seller of Secrets"
+    ]
+  },
+  {
+    "category": "swallowed-clause",
+    "pattern": "Condition_If: a card with the chosen name is revealed this way",
+    "warning_count": 2,
+    "card_count": 2,
+    "otherwise_supported_cards": 2,
+    "single_gap_cards": 2,
+    "single_gap_by_format": {
+      "commander": 1,
+      "duel": 1,
+      "legacy": 1,
+      "modern": 1,
+      "oathbreaker": 1,
+      "vintage": 1
+    },
+    "example_cards": [
+      "Isperia the Inscrutable",
+      "Denied!"
+    ]
+  },
+  {
+    "category": "swallowed-clause",
+    "pattern": "Condition_If: it has the same name as a permanent",
+    "warning_count": 2,
+    "card_count": 2,
+    "otherwise_supported_cards": 2,
+    "single_gap_cards": 2,
+    "single_gap_by_format": {
+      "commander": 2,
+      "duel": 2,
+      "legacy": 2,
+      "modern": 1,
+      "oathbreaker": 2,
+      "premodern": 1,
+      "vintage": 2
+    },
+    "example_cards": [
+      "Mitotic Manipulation",
+      "Retraced Image"
+    ]
+  },
+  {
+    "category": "swallowed-clause",
+    "pattern": "Condition_If: it's a host or has augment",
+    "warning_count": 2,
+    "card_count": 2,
+    "otherwise_supported_cards": 2,
+    "single_gap_cards": 2,
+    "single_gap_by_format": {},
+    "example_cards": [
+      "Really Epic Punch",
+      "Success!"
+    ]
+  },
+  {
+    "category": "swallowed-clause",
+    "pattern": "Condition_If: that land was a snow land",
+    "warning_count": 2,
+    "card_count": 2,
+    "otherwise_supported_cards": 2,
+    "single_gap_cards": 2,
+    "single_gap_by_format": {
+      "commander": 2,
+      "duel": 2,
+      "legacy": 2,
+      "oathbreaker": 2,
+      "pauper": 2,
+      "paupercommander": 2,
+      "premodern": 2,
+      "vintage": 2
+    },
+    "example_cards": [
+      "Icequake",
+      "Thermokarst"
+    ]
+  },
+  {
+    "category": "swallowed-clause",
+    "pattern": "Condition_If: that spell has mana value N or greater",
+    "warning_count": 2,
+    "card_count": 2,
+    "otherwise_supported_cards": 2,
+    "single_gap_cards": 2,
+    "single_gap_by_format": {
+      "brawl": 1,
+      "commander": 2,
+      "duel": 2,
+      "historic": 1,
+      "legacy": 2,
+      "modern": 1,
+      "oathbreaker": 2,
+      "pioneer": 1,
+      "timeless": 1,
+      "vintage": 2
+    },
+    "example_cards": [
+      "Herald of Ilharg",
+      "Prismari Apprentice"
+    ]
+  },
+  {
+    "category": "swallowed-clause",
+    "pattern": "Condition_If: you reveal a creature card this way",
+    "warning_count": 2,
+    "card_count": 2,
+    "otherwise_supported_cards": 2,
+    "single_gap_cards": 2,
+    "single_gap_by_format": {
+      "brawl": 2,
+      "commander": 2,
+      "duel": 2,
+      "historic": 2,
+      "legacy": 2,
+      "modern": 2,
+      "oathbreaker": 2,
+      "pioneer": 1,
+      "timeless": 2,
+      "vintage": 2
+    },
+    "example_cards": [
+      "Eladamri, Korvecdal",
+      "Vesuvan Drifter"
+    ]
+  },
+  {
+    "category": "swallowed-clause",
+    "pattern": "Duration_ThisTurn: this turn explores",
+    "warning_count": 2,
+    "card_count": 2,
+    "otherwise_supported_cards": 2,
+    "single_gap_cards": 2,
+    "single_gap_by_format": {
+      "brawl": 1,
+      "commander": 1,
+      "duel": 1,
+      "historic": 1,
+      "legacy": 1,
+      "modern": 1,
+      "oathbreaker": 1,
+      "pioneer": 1,
+      "standard": 1,
+      "standardbrawl": 1,
+      "timeless": 1,
+      "vintage": 1
+    },
+    "example_cards": [
+      "Subterranean Schooner",
+      "Leisure Bicycle"
+    ]
+  },
+  {
+    "category": "swallowed-clause",
+    "pattern": "Duration_ThisTurn: this turn loses N life",
+    "warning_count": 2,
+    "card_count": 2,
+    "otherwise_supported_cards": 2,
+    "single_gap_cards": 2,
+    "single_gap_by_format": {
+      "commander": 2,
+      "duel": 2,
+      "legacy": 2,
+      "modern": 2,
+      "oathbreaker": 2,
+      "pauper": 1,
+      "paupercommander": 1,
+      "pioneer": 1,
+      "vintage": 2
+    },
+    "example_cards": [
+      "Wicked Akuba",
+      "Rix Maadi Guildmage"
+    ]
+  },
+  {
+    "category": "swallowed-clause",
+    "pattern": "DynamicQty: flip you win",
+    "warning_count": 2,
+    "card_count": 2,
+    "otherwise_supported_cards": 2,
+    "single_gap_cards": 2,
+    "single_gap_by_format": {
+      "commander": 2,
+      "duel": 2,
+      "legacy": 2,
+      "modern": 1,
+      "oathbreaker": 2,
+      "vintage": 2
+    },
+    "example_cards": [
+      "Mutalith Vortex Beast",
+      "Goblin Traprunner"
+    ]
+  },
+  {
+    "category": "swallowed-clause",
+    "pattern": "DynamicQty: flip you won",
+    "warning_count": 2,
+    "card_count": 2,
+    "otherwise_supported_cards": 2,
+    "single_gap_cards": 2,
+    "single_gap_by_format": {
+      "brawl": 1,
+      "commander": 2,
+      "duel": 2,
+      "historic": 1,
+      "legacy": 2,
+      "modern": 1,
+      "oathbreaker": 2,
+      "pioneer": 1,
+      "premodern": 1,
+      "timeless": 1,
+      "vintage": 2
+    },
+    "example_cards": [
+      "Crazed Firecat",
+      "Mirror March"
+    ]
+  },
+  {
+    "category": "swallowed-clause",
+    "pattern": "DynamicQty: this creature's power and toughness",
+    "warning_count": 2,
+    "card_count": 2,
+    "otherwise_supported_cards": 2,
+    "single_gap_cards": 2,
+    "single_gap_by_format": {
+      "brawl": 2,
+      "commander": 2,
+      "duel": 2,
+      "historic": 2,
+      "legacy": 2,
+      "modern": 2,
+      "oathbreaker": 2,
+      "pioneer": 2,
+      "timeless": 2,
+      "vintage": 2
+    },
+    "example_cards": [
+      "Woodcaller Automaton",
+      "Hulking Metamorph"
+    ]
+  },
+  {
+    "category": "swallowed-clause",
+    "pattern": "Replacement_Instead: a source you control would deal damage to a permanent or player",
+    "warning_count": 2,
+    "card_count": 2,
+    "otherwise_supported_cards": 2,
+    "single_gap_cards": 2,
+    "single_gap_by_format": {
+      "commander": 1,
+      "duel": 1,
+      "legacy": 1,
+      "modern": 1,
+      "oathbreaker": 1,
+      "vintage": 1
+    },
+    "example_cards": [
+      "Anthem of Rakdos",
+      "Lyzolda, the Blood Witch Avatar"
+    ]
+  },
+  {
+    "category": "swallowed-clause",
+    "pattern": "Optional_YouMay: you may look at it any time and you may cast it",
+    "warning_count": 4,
+    "card_count": 3,
+    "otherwise_supported_cards": 1,
+    "single_gap_cards": 1,
+    "single_gap_by_format": {
+      "brawl": 1,
+      "historic": 1,
+      "timeless": 1
+    },
+    "example_cards": [
+      "Oura, the Imitator",
+      "Pearl Lake Warden",
+      "Chittering Illuminator"
+    ]
+  },
+  {
+    "category": "swallowed-clause",
+    "pattern": "Condition_If: it's a main phase",
+    "warning_count": 2,
+    "card_count": 2,
+    "otherwise_supported_cards": 1,
+    "single_gap_cards": 1,
+    "single_gap_by_format": {},
+    "example_cards": [
+      "Sokenzan",
+      "Valor's Reach"
+    ]
+  },
+  {
+    "category": "swallowed-clause",
+    "pattern": "Condition_If: you cast a spell this way",
+    "warning_count": 2,
+    "card_count": 2,
+    "otherwise_supported_cards": 1,
+    "single_gap_cards": 1,
+    "single_gap_by_format": {
+      "brawl": 1,
+      "commander": 1,
+      "duel": 1,
+      "historic": 1,
+      "legacy": 1,
+      "modern": 1,
+      "oathbreaker": 1,
+      "timeless": 1,
+      "vintage": 1
+    },
+    "example_cards": [
+      "X",
+      "Primal Prayers"
+    ]
+  },
+  {
+    "category": "swallowed-clause",
+    "pattern": "Duration_ThisTurn: this turn cost {N} less to cast",
+    "warning_count": 2,
+    "card_count": 1,
+    "otherwise_supported_cards": 1,
+    "single_gap_cards": 1,
+    "single_gap_by_format": {
+      "brawl": 1,
+      "historic": 1,
+      "timeless": 1
+    },
+    "example_cards": [
+      "Captain Eberhart"
+    ]
+  },
+  {
+    "category": "swallowed-clause",
+    "pattern": "DynamicQty: bear you control,\" and crew N",
+    "warning_count": 2,
+    "card_count": 2,
+    "otherwise_supported_cards": 1,
+    "single_gap_cards": 1,
+    "single_gap_by_format": {},
+    "example_cards": [
+      "The Bear Force Pilot Runner",
+      "The Bear Force Pilot"
+    ]
+  },
+  {
+    "category": "swallowed-clause",
+    "pattern": "DynamicQty: the number of cards in its controller's graveyard",
+    "warning_count": 2,
+    "card_count": 1,
+    "otherwise_supported_cards": 1,
+    "single_gap_cards": 1,
+    "single_gap_by_format": {
+      "brawl": 1,
+      "commander": 1,
+      "duel": 1,
+      "historic": 1,
+      "legacy": 1,
+      "modern": 1,
+      "oathbreaker": 1,
+      "pioneer": 1,
+      "timeless": 1,
+      "vintage": 1
+    },
+    "example_cards": [
+      "Drown in the Loch"
+    ]
+  },
+  {
+    "category": "target-fallback",
+    "pattern": "parse_target could not classify: seven dwarves",
+    "warning_count": 2,
+    "card_count": 1,
+    "otherwise_supported_cards": 1,
+    "single_gap_cards": 1,
+    "single_gap_by_format": {},
+    "example_cards": [
+      "Princess Snowfall"
+    ]
+  },
+  {
+    "category": "swallowed-clause",
+    "pattern": "APNAP: in turn order",
+    "warning_count": 1,
+    "card_count": 1,
+    "otherwise_supported_cards": 1,
+    "single_gap_cards": 1,
+    "single_gap_by_format": {
+      "commander": 1,
+      "duel": 1,
+      "legacy": 1,
+      "oathbreaker": 1,
+      "vintage": 1
+    },
+    "example_cards": [
+      "Protection Racket"
+    ]
+  },
+  {
+    "category": "swallowed-clause",
+    "pattern": "CombatPairingRelation: vigilance {N}{M}, {t}: this creature deals damage equal to its toughness to target creature blocking or blocked by it",
+    "warning_count": 1,
+    "card_count": 1,
+    "otherwise_supported_cards": 1,
+    "single_gap_cards": 1,
+    "single_gap_by_format": {
+      "brawl": 1,
+      "commander": 1,
+      "duel": 1,
+      "historic": 1,
+      "legacy": 1,
+      "modern": 1,
+      "oathbreaker": 1,
+      "pioneer": 1,
+      "timeless": 1,
+      "vintage": 1
+    },
+    "example_cards": [
+      "Steadfast Armasaur"
+    ]
+  },
+  {
+    "category": "swallowed-clause",
+    "pattern": "CombatPairingRelation: {M}: put this creature and each creature blocking or blocked by it on top of their owners' libraries, then those players shuffle",
+    "warning_count": 1,
+    "card_count": 1,
+    "otherwise_supported_cards": 1,
+    "single_gap_cards": 1,
+    "single_gap_by_format": {
+      "commander": 1,
+      "duel": 1,
+      "legacy": 1,
+      "modern": 1,
+      "oathbreaker": 1,
+      "pioneer": 1,
+      "vintage": 1
+    },
+    "example_cards": [
+      "Vortex Elemental"
+    ]
+  },
+  {
+    "category": "swallowed-clause",
+    "pattern": "Condition_AsLongAs: as long as there are seven or more cards in your graveyard",
+    "warning_count": 1,
+    "card_count": 1,
+    "otherwise_supported_cards": 1,
+    "single_gap_cards": 1,
+    "single_gap_by_format": {
+      "commander": 1,
+      "duel": 1,
+      "legacy": 1,
+      "oathbreaker": 1,
+      "premodern": 1,
+      "vintage": 1
+    },
+    "example_cards": [
+      "Divine Sacrament"
+    ]
+  },
+  {
+    "category": "swallowed-clause",
+    "pattern": "Condition_AsLongAs: as long as this creature is untapped, noncreature artifacts you control can't be enchanted, they have indestructible, and other players can't gain control of them",
+    "warning_count": 1,
+    "card_count": 1,
+    "otherwise_supported_cards": 1,
+    "single_gap_cards": 1,
+    "single_gap_by_format": {
+      "commander": 1,
+      "duel": 1,
+      "legacy": 1,
+      "oathbreaker": 1,
+      "vintage": 1
+    },
+    "example_cards": [
+      "Guardian Beast"
+    ]
+  },
+  {
+    "category": "swallowed-clause",
+    "pattern": "Condition_AsLongAs: as long as you attacked this turn",
+    "warning_count": 1,
+    "card_count": 1,
+    "otherwise_supported_cards": 1,
+    "single_gap_cards": 1,
+    "single_gap_by_format": {
+      "brawl": 1,
+      "commander": 1,
+      "duel": 1,
+      "historic": 1,
+      "legacy": 1,
+      "oathbreaker": 1,
+      "timeless": 1,
+      "vintage": 1
+    },
+    "example_cards": [
+      "Pick Up the Pace"
+    ]
+  },
+  {
+    "category": "swallowed-clause",
+    "pattern": "Condition_AsLongAs: as long as you control a lukka planeswalker",
+    "warning_count": 1,
+    "card_count": 1,
+    "otherwise_supported_cards": 1,
+    "single_gap_cards": 1,
+    "single_gap_by_format": {
+      "brawl": 1,
+      "commander": 1,
+      "duel": 1,
+      "historic": 1,
+      "legacy": 1,
+      "modern": 1,
+      "oathbreaker": 1,
+      "pioneer": 1,
+      "timeless": 1,
+      "vintage": 1
+    },
+    "example_cards": [
+      "Lukka, Coppercoat Outcast"
+    ]
+  },
+  {
+    "category": "swallowed-clause",
+    "pattern": "Condition_AsLongAs: that card remains exiled",
+    "warning_count": 1,
+    "card_count": 1,
+    "otherwise_supported_cards": 1,
+    "single_gap_cards": 1,
+    "single_gap_by_format": {
+      "brawl": 1,
+      "commander": 1,
+      "duel": 1,
+      "historic": 1,
+      "legacy": 1,
+      "modern": 1,
+      "oathbreaker": 1,
+      "pioneer": 1,
+      "timeless": 1,
+      "vintage": 1
+    },
+    "example_cards": [
+      "Soul Partition"
+    ]
+  },
+  {
+    "category": "swallowed-clause",
+    "pattern": "Condition_AsLongAs: that creature has a duty counter on it",
+    "warning_count": 1,
+    "card_count": 1,
+    "otherwise_supported_cards": 1,
+    "single_gap_cards": 1,
+    "single_gap_by_format": {
+      "commander": 1,
+      "duel": 1,
+      "legacy": 1,
+      "oathbreaker": 1,
+      "vintage": 1
+    },
+    "example_cards": [
+      "Immortal Obligation"
+    ]
+  },
+  {
+    "category": "swallowed-clause",
+    "pattern": "Condition_AsLongAs: you've rolled a N this turn",
+    "warning_count": 1,
+    "card_count": 1,
+    "otherwise_supported_cards": 1,
+    "single_gap_cards": 1,
+    "single_gap_by_format": {
+      "commander": 1,
+      "duel": 1,
+      "legacy": 1,
+      "oathbreaker": 1,
+      "pauper": 1,
+      "paupercommander": 1,
+      "vintage": 1
+    },
+    "example_cards": [
+      "Eelectrocute"
+    ]
+  },
+  {
+    "category": "swallowed-clause",
+    "pattern": "Condition_If: a card is put into exile this way",
+    "warning_count": 1,
+    "card_count": 1,
+    "otherwise_supported_cards": 1,
+    "single_gap_cards": 1,
+    "single_gap_by_format": {
+      "brawl": 1,
+      "commander": 1,
+      "duel": 1,
+      "historic": 1,
+      "legacy": 1,
+      "modern": 1,
+      "oathbreaker": 1,
+      "pioneer": 1,
+      "timeless": 1,
+      "vintage": 1
+    },
+    "example_cards": [
+      "Corpse Appraiser"
+    ]
+  },
+  {
+    "category": "swallowed-clause",
+    "pattern": "Condition_If: a card named stomping slabs was revealed this way",
+    "warning_count": 1,
+    "card_count": 1,
+    "otherwise_supported_cards": 1,
+    "single_gap_cards": 1,
+    "single_gap_by_format": {
+      "commander": 1,
+      "duel": 1,
+      "legacy": 1,
+      "modern": 1,
+      "oathbreaker": 1,
+      "vintage": 1
+    },
+    "example_cards": [
+      "Stomping Slabs"
+    ]
+  },
+  {
+    "category": "swallowed-clause",
+    "pattern": "Condition_If: a card with mana value less than x is put onto the battlefield this way",
+    "warning_count": 1,
+    "card_count": 1,
+    "otherwise_supported_cards": 1,
+    "single_gap_cards": 1,
+    "single_gap_by_format": {
+      "brawl": 1,
+      "historic": 1,
+      "timeless": 1
+    },
+    "example_cards": [
+      "Plunderer's Prize"
+    ]
+  },
+  {
+    "category": "swallowed-clause",
+    "pattern": "Condition_If: a card with the chosen word in its text box was milled this way",
+    "warning_count": 1,
+    "card_count": 1,
+    "otherwise_supported_cards": 1,
+    "single_gap_cards": 1,
+    "single_gap_by_format": {},
+    "example_cards": [
+      "Tainted Monkey"
+    ]
+  },
+  {
+    "category": "swallowed-clause",
+    "pattern": "Condition_If: a card with the same name is in a graveyard or a nontoken permanent with the same name is on the battlefield",
+    "warning_count": 1,
+    "card_count": 1,
+    "otherwise_supported_cards": 1,
+    "single_gap_cards": 1,
+    "single_gap_by_format": {
+      "commander": 1,
+      "duel": 1,
+      "legacy": 1,
+      "oathbreaker": 1,
+      "premodern": 1,
+      "vintage": 1
+    },
+    "example_cards": [
+      "Bazaar of Wonders"
+    ]
+  },
+  {
+    "category": "swallowed-clause",
+    "pattern": "Condition_If: a creature is put into exile this way",
+    "warning_count": 1,
+    "card_count": 1,
+    "otherwise_supported_cards": 1,
+    "single_gap_cards": 1,
+    "single_gap_by_format": {
+      "brawl": 1,
+      "commander": 1,
+      "duel": 1,
+      "historic": 1,
+      "legacy": 1,
+      "modern": 1,
+      "oathbreaker": 1,
+      "pioneer": 1,
+      "timeless": 1,
+      "vintage": 1
+    },
+    "example_cards": [
+      "Mysterious Limousine"
+    ]
+  },
+  {
+    "category": "swallowed-clause",
+    "pattern": "Condition_If: a player does either",
+    "warning_count": 1,
+    "card_count": 1,
+    "otherwise_supported_cards": 1,
+    "single_gap_cards": 1,
+    "single_gap_by_format": {
+      "commander": 1,
+      "duel": 1,
+      "legacy": 1,
+      "oathbreaker": 1,
+      "vintage": 1
+    },
+    "example_cards": [
+      "Worms of the Earth"
+    ]
+  },
+  {
+    "category": "swallowed-clause",
+    "pattern": "Condition_If: a source would deal damage to a player who didn't win the subgame",
+    "warning_count": 1,
+    "card_count": 1,
+    "otherwise_supported_cards": 1,
+    "single_gap_cards": 1,
+    "single_gap_by_format": {},
+    "example_cards": [
+      "The Countdown Is at One"
+    ]
+  },
+  {
+    "category": "swallowed-clause",
+    "pattern": "Condition_If: all cards exiled with this saga share a card type",
+    "warning_count": 1,
+    "card_count": 1,
+    "otherwise_supported_cards": 1,
+    "single_gap_cards": 1,
+    "single_gap_by_format": {},
+    "example_cards": [
+      "All Good Things..."
+    ]
+  },
+  {
+    "category": "swallowed-clause",
+    "pattern": "Condition_If: another creature died this turn",
+    "warning_count": 1,
+    "card_count": 1,
+    "otherwise_supported_cards": 1,
+    "single_gap_cards": 1,
+    "single_gap_by_format": {
+      "commander": 1,
+      "duel": 1,
+      "legacy": 1,
+      "modern": 1,
+      "oathbreaker": 1,
+      "vintage": 1
+    },
+    "example_cards": [
+      "Chain Assassination"
+    ]
+  }
+]

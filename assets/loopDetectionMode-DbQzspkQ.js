@@ -1,0 +1,1 @@
+function r(e){switch(e?.toLowerCase()){case"on":return{type:"Interactive"};case"interactive":return{type:"Interactive"};default:return{type:"Off"}}}function n(e){switch(e.type){case"Off":return null;case"On":return"on";case"Interactive":return"interactive"}return e}export{n as a,r as l};
