@@ -1,1 +1,0 @@
-import{r}from"./index-TXrm0wzc.js";let e=null,s=null;function c(){return s||(s=fetch("https://data.phase-rs.dev/set-list.json").then(t=>t.ok?t.json():null).then(t=>(t&&typeof t=="object"&&(e=t),e)).catch(()=>null)),s}function i(){const[t,u]=r.useState(e);return r.useEffect(()=>{e||c().then(n=>{n&&u(n)})},[]),t}export{i as u};
