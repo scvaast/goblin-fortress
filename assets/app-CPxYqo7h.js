@@ -1,0 +1,1 @@
+import{ia as s}from"./index-DYlCuUY5.js";var p;(function(i){i.Nsis="nsis",i.Msi="msi",i.Deb="deb",i.Rpm="rpm",i.AppImage="appimage",i.App="app"})(p||(p={}));async function r(){return s("plugin:app|version")}export{p as BundleType,r as getVersion};
